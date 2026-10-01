@@ -46,12 +46,12 @@ export const guests: Guest[] = [
   },
 
   // Cousin
-  // {
-  //   slug: "cousin-tania",
-  //   name: "Tania",
-  //   relationship: "Cousin",
-  //   message: "Come celebrate with us. The day will be brighter with you there.",
-  // },
+  {
+    slug: "cousin-tania",
+    name: "Tania",
+    relationship: "Cousin",
+    message: "Come celebrate with us. The day will be brighter with you there.",
+  },
 
   // Colleague
   // {
